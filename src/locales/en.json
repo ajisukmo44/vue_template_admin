@@ -1,0 +1,559 @@
+{
+  "navbar": {
+    "search": {
+      "text": "Search..."
+    },
+    "dropdown": {
+      "megamenu": {
+        "text": "Mega Menu",
+        "uicontent": {
+          "title": "UI Components",
+          "list": {
+            "lightbox": "Lightbox",
+            "rangeslider": "Range Slider",
+            "sweetalert": "Sweet Alert",
+            "rating": "Rating",
+            "forms": "Forms",
+            "tables": "Tables",
+            "charts": "Charts"
+          }
+        },
+        "application": {
+          "title": "Applications",
+          "list": {
+            "ecommerce": "Ecommece",
+            "calendar": "Calendar",
+            "email": "Email",
+            "projects": "Projects",
+            "tasks": "Tasks",
+            "contacts": "Contacts"
+          }
+        },
+        "extrapages": {
+          "title": "Extra Pages",
+          "list": {
+            "lightsidebar": "Light Sidebar",
+            "compactsidebar": "Compact Sidebar",
+            "horizontallayout": "Horizontal Layout",
+            "maintenance": "Maintenance",
+            "comingsoon": "Coming Soon",
+            "timeline": "Timeline",
+            "faqs": "FAQs"
+          }
+        }
+      },
+      "site": {
+        "list": {
+          "github": "GitHub",
+          "bitbucket": "Bitbucket",
+          "dribbble": "Dribbble",
+          "dropbox": "Dropbox",
+          "mailchimp": "Mail Chimp",
+          "slack": "Slack"
+        }
+      },
+      "notification": {
+        "badge": "3",
+        "text": "Notifications",
+        "subtext": "View All",
+        "order": {
+          "title": "Your order is placed",
+          "text": "If several languages coalesce the grammar",
+          "time": "3 min ago"
+        },
+        "james": {
+          "title": "James Lemire",
+          "text": "It will seem like simplified English.",
+          "time": "1 hours ago"
+        },
+        "item": {
+          "title": "Your item is shipped",
+          "text": "If several languages coalesce the grammar",
+          "time": "3 min ago"
+        },
+        "salena": {
+          "title": "Salena Layfield",
+          "text": "As a skeptical Cambridge friend of mine occidental.",
+          "time": "1 hours ago"
+        },
+        "button": "Load More.."
+      },
+      "henry": {
+        "text": "Henry",
+        "list": {
+          "profile": "Profile",
+          "mywallet": "My Wallet",
+          "settings": "Settings",
+          "lockscreen": "Lock screen",
+          "logout": "Logout"
+        }
+      }
+    }
+  },
+  "menuitems": {
+    "menu": {
+      "text": "Menu"
+    },
+    "dashboards": {
+      "text": "Dashboards",
+      "badge": "03",
+      "list": {
+        "default": "Default",
+        "saas": "Saas",
+        "crypto": "Crypto"
+      }
+    },
+    "user-management":{
+      "text":"User Management"
+    },
+    "customer-management":{
+      "text":"Customer Management"
+    },
+    "agen-management":{
+      "text":"Agent Management"
+    },
+    "case-management":{
+      "text":"Case Management"
+    },
+    "package":{
+      "text":"Package"
+    },
+    "live-chat":{
+      "text":"Live Chat"
+    },
+    "settings":{
+      "text":"Settings"
+    },
+    "region":{
+      "text":"Region"
+    },
+    "classification":{
+      "text":"Classification"
+    },
+    "layouts": {
+      "text": "Layouts",
+      "list": {
+        "horizontal": "Horizontal",
+        "lightsidebar": "Light Sidebar",
+        "compactsidebar": "Compact Sidebar",
+        "iconsidebar": "Icons Sidebar",
+        "boxed": "Boxed Layout",
+        "coloredsidebar": "Colored Sidebar",
+        "vertical": "Vertical",
+        "lighttopbar": "Light Topbar",
+        "coloredheader": "Colored Header"
+      }
+    },
+    "apps": {
+      "text": "Apps"
+    },
+    "calendar": {
+      "text": "Calendar"
+    },
+    "chat": {
+      "text": "Chat",
+      "badge": "New"
+    },
+    "ecommerce": {
+      "text": "Ecommerce",
+      "list": {
+        "products": "Products",
+        "productdetail": "Product Detail",
+        "orders": "Orders",
+        "customers": "Customers",
+        "cart": "Cart",
+        "checkout": "Checkout",
+        "shops": "Shops",
+        "addproduct": "Add Product"
+      }
+    },
+    "crypto": {
+      "text": "Crypto",
+      "list": {
+        "wallet": "Wallet",
+        "buy/sell": "Buy/sell",
+        "exchange": "Exchange",
+        "lending": "Lending",
+        "orders": "Orders",
+        "kycapplication": "KYC Application",
+        "icolanding": "ICO Landing"
+      }
+    },
+    "email": {
+      "text": "Email",
+      "list": {
+        "inbox": "Inbox",
+        "reademail": "Read Email"
+      }
+    },
+    "invoices": {
+      "text": "Invoices",
+      "list": {
+        "invoicelist": "Invoice List",
+        "invoicedetail": "Invoice Detail"
+      }
+    },
+    "projects": {
+      "text": "Projects",
+      "list": {
+        "grid": "Projects Grid",
+        "projectlist": "Projects List",
+        "overview": "Project Overview",
+        "create": "Create New"
+      }
+    },
+    "tasks": {
+      "text": "Tasks",
+      "list": {
+        "tasklist": "Task List",
+        "kanban": "Kanban Board",
+        "createtask": "Create Task"
+      }
+    },
+    "contacts": {
+      "text": "Contacts",
+      "list": {
+        "usergrid": "User Grid",
+        "userlist": "User List",
+        "profile": "Profile"
+      }
+    },
+    "pages": {
+      "text": "Pages"
+    },
+    "authentication": {
+      "text": "Authentication",
+      "list": {
+        "login": "Login",
+        "register": "Register",
+        "recoverpwd": "Recover Password",
+        "lockscreen": "Lock screen"
+      }
+    },
+    "utility": {
+      "text": "Utility",
+      "list": {
+        "starter": "Starter Page",
+        "maintenance": "Maintenance",
+        "timeline": "Timeline",
+        "faqs": "FAQs",
+        "pricing": "Pricing",
+        "error404": "Error 404",
+        "error500": "Error 500"
+      }
+    },
+    "components": {
+      "text": "Components"
+    },
+    "uielements": {
+      "text": "UI Elements",
+      "list": {
+        "alerts": "Alerts",
+        "buttons": "Buttons",
+        "cards": "Cards",
+        "carousel": "Carousel",
+        "dropdowns": "Dropdowns",
+        "grid": "Grid",
+        "images": "Images",
+        "modals": "Modals",
+        "rangeslider": "Range Slider",
+        "progressbar": "Progress Bars",
+        "sweetalert": "Sweet Alert",
+        "tabs": "Tabs & Accordions",
+        "typography": "Typography",
+        "video": "Video",
+        "general": "General",
+        "colors": "Colors"
+      }
+    },
+    "forms": {
+      "text": "Forms",
+      "badge": "8",
+      "list": {
+        "elements": "Form Elements",
+        "validation": "Form Validation",
+        "advanced": "Form Advanced",
+        "editor": "Form Editor",
+        "fileupload": "Form File Upload",
+        "repeater": "Form Repeater",
+        "wizard": "Form Wizard",
+        "mask": "Form Mask"
+      }
+    },
+    "tables": {
+      "text": "Tables",
+      "list": {
+        "basic": "Basic Tables",
+        "advanced": "Advanced Table"
+      }
+    },
+    "charts": {
+      "text": "Charts",
+      "list": {
+        "apex": "Apex Chart",
+        "chartjs": "Chartjs Chart",
+        "chartist": "Chartist Chart",
+        "echart": "E Chart"
+      }
+    },
+    "icons": {
+      "text": "Icons",
+      "list": {
+        "boxicons": "Boxicons",
+        "materialdesign": "Material Design",
+        "dripicons": "Dripicons",
+        "fontawesome": "Font awesome"
+      }
+    },
+    "maps": {
+      "text": "Maps",
+      "list": {
+        "googlemap": "Google Maps"
+      }
+    },
+    "multilevel": {
+      "text": "Multi Level",
+      "list": {
+        "level1": {
+          "1": "Level 1.1",
+          "2": "Level 1.2",
+          "level2": {
+            "1": "Level 2.1",
+            "2": "Level 2.2"
+          }
+        }
+      }
+    }
+  },
+
+  "dashboard":{
+    "top-agent": "Top Agent",
+    "total-case": "Total Case",
+    "total-agent": "Total Agent",
+    "case-this-month": "Case This Month",
+    "case-report": "Case Report",
+    "overview": "Overview",
+    "today": "Today",
+    "this-month": "This Month",
+    "this-week": "This Week"
+  },
+
+  "user-management":{
+      "agen-management": "Agent Management",
+      "agen-management-detail": "Agent Management Detail",
+      "customer-management": "Customer Management",
+      "customer-management-detail": "Customer Management Detail",
+      "user-profile": "User Profile",
+      "change-image": "Change Image",
+      "user-management": "User Management",
+      "username": "Username",
+      "email": "Email",
+      "user-type": "User Type",
+      "active": "Is Active",
+      "active-until": "Active Until",
+      "created-at": "Created At",
+      "updated-at": "Updated At",
+      "action": "Actions",
+      "new_password": "New Password",
+      "current_password": "Old Password",
+      "confirm_password": "Confirm Password",
+
+      "name": "Name",
+      "phone": "Phone",
+      "gender": "Gender",
+      "male": "Male",
+      "female": "Female",
+      "profile-pict": "Profile Pict",
+      "address": "Address",
+      "birth-date": "Birth Date",
+      "agent-location": "Agent Location",
+      "is-in-case": "Is In Case",
+      "is-ready": "Is Ready",
+      "auto-recieve": "Auto Recieve",
+      "device-token": "Device Token",
+      "region": "Region",
+      "role": "Role",
+      "is-online": "Is Online",
+      "is-login": "Is Login",
+      "agent-status": "Agent Status",
+      
+      "package": "Package",
+      "subscribe": "Subscribe",
+      "pay": "Pay",
+      "banned": "Banned",
+      "trial": "Trial",
+      "device-name":"Device Name",
+      "subscription-expire-date":"Subscription Expired",
+      "trial-expire-date":"Trial Expire Date",
+      "case-resolved": "Case Resolved",
+      "agent": "Agent",
+      "customer": "Customer",
+      "status": "Status",
+      "user": "User",
+      "expired": "Expired",
+      "order-history": "Order History",
+      "personal-information": "Personal Information",
+
+      "choose": "Choose a file or drop it here...",
+      "new-image": "New Image",
+      "new-password": "New Password",
+      "confirm-password": "Confirm Password",
+      "reset-password": "Reset Password"
+    },
+
+    "agen-detail":{
+      "current-location": "Current Location",
+      "date-range": "Date Range",
+      "tracking-record": "Tracking Record",
+      "date-time": "Date Time",
+      "location": "Location",
+      "agent-info": "Agen Info",
+      "device-info": "Device Info",
+     
+      "model": "Model",
+      "manufacture": "Manufacture",
+      "brand": "Brand",
+      "user": "User",
+      "type": "Type",
+      "base": "Base",
+      "incremental": "Incremental",
+      "board": "Board",
+      "host": "Host",
+      "finger-print": "Finger Print",
+      "version-code": "Version Code"
+    },
+
+    "case":{
+      "case-management": "Case Management",
+      "case-management-detail": "Case Management Detail",
+      "category": "Category",
+      "classification": "Classification",
+      "incident-date": "Incident Date",
+      "incident-location": "Incident Location",
+      "image": "Image Gallery",
+      "location-coordinate": "Location Coordinate",
+      "rating": "Rating",
+      "feedback": "Feedback",
+      "title": "Title",
+      "description": "Description",
+      "location-address": "Location Address", 
+      "victim": "Victim",
+      "picture": "Picture",
+      "case-status": "Case Status",
+      "accepted": "Accepted",
+      "finished": "Finished",
+      "agent": "Agent",
+      "customer": "Customer",
+      "agen-report": "Agen Report",
+      "id-report": "Id Report",
+      "id-case": "Id Case",
+      "profile": "Profile",
+      "report": "Report"
+    },
+  
+    "chat":{
+      "live-chat": "Live Chat"
+    },  
+
+    "classification":{
+      "classification-management": "Classification Management",
+      "classification-name": "Classification Name"
+    },  
+
+    "region":{
+      "region-management": "Region Management",
+      "region-name": "Region Name",
+      "region-number": "Region Number"
+    },
+    
+    "package":{
+      "package-management": "Package Management",
+      "package-name": "Package Name",
+      "name": "Name",
+      "description": "Description",
+      "price": "Price",
+      "duration": "Duration",
+      "unit": "Unit",
+      "is-vvip": "IS VVIP"
+    }, 
+
+    "table":{
+      "search": "Search",
+      "searchh": "Search..",
+      "show-label": "Show",
+      "entri-label": "Entries"
+    },
+
+    "form": {
+      "error": {
+        "text" : "This value is required.",
+        "match" : "this value doesn't match.",
+        "invalid-password":"Wrong Password"
+      }
+    },
+    "button": {
+      "action": "Action",
+      "view": "View",
+      "detail": "Detail",
+      "profile": "Profile",
+      "logout": "Logout",
+      "change-password": "Change Password",
+      "save-tag-name": "Save Tag Name to Target",
+      "bulk-action": "Bulk Action",
+      "row-data": "Row Data",
+      "entries": "Entries",
+      "show": "Show",
+      "search-data": "Search",
+      "leave-group":"Yes, Leave Group",
+      "leave-group-you":"You will leave the group: ",
+      "join-group":"Yes, Join Group",
+      "join-group-you":"You will join the group: ",
+      "all-search-number": "Search By Number",
+      "add": {
+          "text": "Add"
+      },
+      "edit": {
+        "text": "Edit"
+    },
+      "save": {
+          "text": "Save"
+      },
+      "hapus": {
+        "text": "Delete"
+    },
+      "delete": {
+          "text": "Yes, Delete!",
+          "modal": {
+              "confirmText": ["Are you sure?", "You won't be able to revert this!"]
+          }
+      },
+      "update": {
+          "text": "Update"
+      },
+      "cancel": {
+          "text": "Cancel"
+      },
+      "search": {
+        "label": "Search",
+        "loading": "Searching ..."
+      }
+  },
+  
+  "all":{
+    "error-500": "Internal Server Error",
+    "error-404": "Server Not Found",
+    "update": "Update",
+    "updated": "Updated",
+    "show": "Show",
+    "search": "Search",
+    "searchh": "Search..",
+    "entries": "Entries",
+    "dnf": "Data Not Found",
+    "view-detail": "View Details",
+    "created-at":"Created At",
+    "updated-at":"Updated At"
+  },
+  "alert":{
+    "delete": "Delete Data Success"
+  }
+}

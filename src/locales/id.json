@@ -1,0 +1,561 @@
+{
+    "navbar": {
+      "search": {
+        "text": "Search..."
+      },
+      "dropdown": {
+        "megamenu": {
+          "text": "Mega Menu",
+          "uicontent": {
+            "title": "UI Components",
+            "list": {
+              "lightbox": "Lightbox",
+              "rangeslider": "Range Slider",
+              "sweetalert": "Sweet Alert",
+              "rating": "Rating",
+              "forms": "Forms",
+              "tables": "Tables",
+              "charts": "Charts"
+            }
+          },
+          "application": {
+            "title": "Applications",
+            "list": {
+              "ecommerce": "Ecommece",
+              "calendar": "Calendar",
+              "email": "Email",
+              "projects": "Projects",
+              "tasks": "Tasks",
+              "contacts": "Contacts"
+            }
+          },
+          "extrapages": {
+            "title": "Extra Pages",
+            "list": {
+              "lightsidebar": "Light Sidebar",
+              "compactsidebar": "Compact Sidebar",
+              "horizontallayout": "Horizontal Layout",
+              "maintenance": "Maintenance",
+              "comingsoon": "Coming Soon",
+              "timeline": "Timeline",
+              "faqs": "FAQs"
+            }
+          }
+        },
+        "site": {
+          "list": {
+            "github": "GitHub",
+            "bitbucket": "Bitbucket",
+            "dribbble": "Dribbble",
+            "dropbox": "Dropbox",
+            "mailchimp": "Mail Chimp",
+            "slack": "Slack"
+          }
+        },
+        "notification": {
+          "badge": "3",
+          "text": "Notifications",
+          "subtext": "View All",
+          "order": {
+            "title": "Your order is placed",
+            "text": "If several languages coalesce the grammar",
+            "time": "3 min ago"
+          },
+          "james": {
+            "title": "James Lemire",
+            "text": "It will seem like simplified English.",
+            "time": "1 hours ago"
+          },
+          "item": {
+            "title": "Your item is shipped",
+            "text": "If several languages coalesce the grammar",
+            "time": "3 min ago"
+          },
+          "salena": {
+            "title": "Salena Layfield",
+            "text": "As a skeptical Cambridge friend of mine occidental.",
+            "time": "1 hours ago"
+          },
+          "button": "Load More.."
+        },
+        "henry": {
+          "text": "Henry",
+          "list": {
+            "profile": "Profile",
+            "mywallet": "My Wallet",
+            "settings": "Settings",
+            "lockscreen": "Lock screen",
+            "logout": "Logout"
+          }
+        }
+      }
+    },
+    "menuitems": {
+      "menu": {
+        "text": "Menu"
+      },
+      "dashboards": {
+        "text": "Dashboards",
+        "badge": "03",
+        "list": {
+          "default": "Default",
+          "saas": "Saas",
+          "crypto": "Crypto"
+        }
+      },
+      "user-management":{
+        "text":"Manajemen Penguna"
+      },
+      "agen-management":{
+        "text":"Manajemen Agen"
+      },
+      "customer-management":{
+        "text":"Manajemen Pelanggan"
+      },
+      "case-management":{
+        "text":"Manajemen Kasus"
+      },
+      "package":{
+        "text":"Paket"
+      },
+      "live-chat":{
+        "text":"Obrolan Langsung"
+      },
+      "settings":{
+        "text":"Pengaturan"
+      },
+      "region":{
+        "text":"Wilayah"
+      },
+      "classification":{
+        "text":"Klasifikasi"
+      },
+      "layouts": {
+        "text": "Layouts",
+        "list": {
+          "horizontal": "Horizontal",
+          "lightsidebar": "Light Sidebar",
+          "compactsidebar": "Compact Sidebar",
+          "iconsidebar": "Icons Sidebar",
+          "boxed": "Boxed Layout",
+          "coloredsidebar": "Colored Sidebar",
+          "vertical": "Vertical",
+          "lighttopbar": "Light Topbar",
+          "coloredheader": "Colored Header"
+        }
+      },
+      "apps": {
+        "text": "Apps"
+      },
+      "calendar": {
+        "text": "Calendar"
+      },
+      "chat": {
+        "text": "Chat",
+        "badge": "New"
+      },
+      "ecommerce": {
+        "text": "Ecommerce",
+        "list": {
+          "products": "Products",
+          "productdetail": "Product Detail",
+          "orders": "Orders",
+          "customers": "Customers",
+          "cart": "Cart",
+          "checkout": "Checkout",
+          "shops": "Shops",
+          "addproduct": "Add Product"
+        }
+      },
+      "crypto": {
+        "text": "Crypto",
+        "list": {
+          "wallet": "Wallet",
+          "buy/sell": "Buy/sell",
+          "exchange": "Exchange",
+          "lending": "Lending",
+          "orders": "Orders",
+          "kycapplication": "KYC Application",
+          "icolanding": "ICO Landing"
+        }
+      },
+      "email": {
+        "text": "Email",
+        "list": {
+          "inbox": "Inbox",
+          "reademail": "Read Email"
+        }
+      },
+      "invoices": {
+        "text": "Invoices",
+        "list": {
+          "invoicelist": "Invoice List",
+          "invoicedetail": "Invoice Detail"
+        }
+      },
+      "projects": {
+        "text": "Projects",
+        "list": {
+          "grid": "Projects Grid",
+          "projectlist": "Projects List",
+          "overview": "Project Overview",
+          "create": "Create New"
+        }
+      },
+      "tasks": {
+        "text": "Tasks",
+        "list": {
+          "tasklist": "Task List",
+          "kanban": "Kanban Board",
+          "createtask": "Create Task"
+        }
+      },
+      "contacts": {
+        "text": "Contacts",
+        "list": {
+          "usergrid": "User Grid",
+          "userlist": "User List",
+          "profile": "Profile"
+        }
+      },
+      "pages": {
+        "text": "Pages"
+      },
+      "authentication": {
+        "text": "Authentication",
+        "list": {
+          "login": "Login",
+          "register": "Register",
+          "recoverpwd": "Recover Password",
+          "lockscreen": "Lock screen"
+        }
+      },
+      "utility": {
+        "text": "Utility",
+        "list": {
+          "starter": "Starter Page",
+          "maintenance": "Maintenance",
+          "timeline": "Timeline",
+          "faqs": "FAQs",
+          "pricing": "Pricing",
+          "error404": "Error 404",
+          "error500": "Error 500"
+        }
+      },
+      "components": {
+        "text": "Components"
+      },
+      "uielements": {
+        "text": "UI Elements",
+        "list": {
+          "alerts": "Alerts",
+          "buttons": "Buttons",
+          "cards": "Cards",
+          "carousel": "Carousel",
+          "dropdowns": "Dropdowns",
+          "grid": "Grid",
+          "images": "Images",
+          "modals": "Modals",
+          "rangeslider": "Range Slider",
+          "progressbar": "Progress Bars",
+          "sweetalert": "Sweet Alert",
+          "tabs": "Tabs & Accordions",
+          "typography": "Typography",
+          "video": "Video",
+          "general": "General",
+          "colors": "Colors"
+        }
+      },
+      "forms": {
+        "text": "Forms",
+        "badge": "8",
+        "list": {
+          "elements": "Form Elements",
+          "validation": "Form Validation",
+          "advanced": "Form Advanced",
+          "editor": "Form Editor",
+          "fileupload": "Form File Upload",
+          "repeater": "Form Repeater",
+          "wizard": "Form Wizard",
+          "mask": "Form Mask"
+        }
+      },
+      "tables": {
+        "text": "Tables",
+        "list": {
+          "basic": "Basic Tables",
+          "advanced": "Advanced Table"
+        }
+      },
+      "charts": {
+        "text": "Charts",
+        "list": {
+          "apex": "Apex Chart",
+          "chartjs": "Chartjs Chart",
+          "chartist": "Chartist Chart",
+          "echart": "E Chart"
+        }
+      },
+      "icons": {
+        "text": "Icons",
+        "list": {
+          "boxicons": "Boxicons",
+          "materialdesign": "Material Design",
+          "dripicons": "Dripicons",
+          "fontawesome": "Font awesome"
+        }
+      },
+      "maps": {
+        "text": "Maps",
+        "list": {
+          "googlemap": "Google Maps"
+        }
+      },
+      "multilevel": {
+        "text": "Multi Level",
+        "list": {
+          "level1": {
+            "1": "Level 1.1",
+            "2": "Level 1.2",
+            "level2": {
+              "1": "Level 2.1",
+              "2": "Level 2.2"
+            }
+          }
+        }
+      }
+    },
+
+    "dashboard":{
+      "top-agent": "Agen Teratas",
+      "total-case": "Total Kasus",
+      "total-agent": "Total Agen",
+      "case-this-month": "Kasus Bulan Ini",
+      "case-report": "Laporan Kasus",
+      "overview": "Ikhtisar",
+      "today": "Hari ini",
+      "this-month": "Bulan ini",
+      "this-week": "Minggu ini"
+    },
+
+    "user-management":{
+      "agen-management": "Managemen Agen",
+      "agen-management-detail": "Managemen Agen Detail",
+      "customer-management": "Managemen Pelanggan",
+      "customer-management-detail": "Managemen Pelanggan",
+
+      "user-profile": "Profil Pengguna",
+      "change-image": "Ubah Gambar",
+      "user-management": "Manajemen Pengguna",
+      "username": "Nama Pengguna",
+      "email": "Email",
+      "user-type": "Tipe Pengguna",
+      "active": "Aktif",
+      "active-until": "Aktif Sampai",
+      "created-at": "Di Buat",
+      "updated-at": "Update",
+      "action": "Aksi",
+      "new_password": "Password Baru",
+      "current_password": "Password Lama",
+      "confirm_password": "Konfirmasi Password",
+
+      "name": "Nama",
+      "phone": "Telepon",
+      "gender": "Jenis Kelamin",
+      "female": "Perempuan",
+      "male": "Laki-Laki",
+      "profile-pict": "Gambar Profil",
+      "address": "Alamat",
+      "birth-date": "Tanggal Lahir",
+      "agent_location": "Lokasi Agen",
+      "is-in-case": "Dalam Kasus",
+      "is-ready": "Tersedia",
+      "auto-recieve": "Terima Otomatis",
+      "device-token": "Token Perangkat",
+      "region": "Wilayah",
+      "role": "Peran",
+      "is-online": "Online",
+      "is-login": "Login",
+      "agent-status": "Status Agen",
+
+      "package": "Paket",
+      "subscribe": "Berlangganan",
+      "pay": "Pembayaran",
+      "banned": "Di Larang",
+      "trial": "Percobaan",
+      "device-name":"Nama Perangkat",
+      "subscription-expire-date":"Kedaluwarsa Berlangganan",
+      "trial-expire-date":"Kedaluwarsa Uji Coba",
+      "case-resolved": "Kasus Terselesaikan",
+      "agent": "Agen",
+      "customer": "Pelanggan",
+      "status": "Status",
+      "user": "Pengguna",
+      "expired": "Kedaluwarsa",
+
+      "order-history": "Riwayat Pemesanan",
+      "personal-information": "Informasi Pribadi",
+
+      "choose": "Pilih file atau letakkan di sini...",
+      "new-image": "Gambar Baru",
+      "new-password": "Password Baru",
+      "confirm-password": "Konfirmasi Sandi",
+      "reset-password": "Setel Ulang Sandi"
+    },
+
+    "agen-detail":{
+      "current-location": "Lokasi Saat Ini",
+      "date-range": "Rentang Tanggal",
+      "tracking-record": "Rekam Pelacakan",
+      "date-time": "Tanggal Waktu",
+      "location": "Lokasi",
+      "agent-info": "Info Agen",
+      "device-info": "Info Perangkat",
+     
+      "model": "Model",
+      "manufacture": "Pembuatan",
+      "brand": "Merek",
+      "user": "Pengguna",
+      "type": "Jenis",
+      "base": "Dasar",
+      "incremental": "Tambahan",
+      "board": "Papan",
+      "host": "Tuan Rumah",
+      "finger-print": "Sidik Jari",
+      "version-code": "Kode Versi"
+    },
+
+    "case":{
+      "case-management": "Manajemen Kasus",
+      "case-management-detail": "Manajemen Kasus Detail",
+      "category": "Kategori",
+      "classification": "Klasifikasi",
+      "incident-date": "Tanggal Insiden",
+      "incident-location": "Lokasi Kejadian",
+      "image": "Galeri Gambar",
+      "location-coordinate": "Lokasi Insiden",
+      "rating": "Peringkat",
+      "feedback": "Umpan Balik",
+      "title": "Judul",
+      "description": "Deskripsi",
+      "location-address": "Alamat Lokasi",
+      "victim": "Korban",
+      "picture": "Gambar",
+      "case-status": "Status Kasus",
+      "accepted": "Di Terima",
+      "finished": "Selesai",
+      "agen-report": "Laporan Agen",
+      "id-report": "Id Laporan",
+      "id-case": "Id Kasus",
+      "profile": "Profil",
+      "report": "Laporan"
+    },
+  
+    "chat":{
+      "live-chat": "Obrolan Langsung"
+    },  
+
+    "classification":{
+      "classification-management": "Manajemen Klasifikasi",
+      "classification-name": "Nama Klasifikasi"
+    },  
+
+    "region":{
+      "region-management": "Management Wilayah",
+      "region-name": "Nama Wilayah",
+      "region-number": "Nomor Wilayah"
+    },  
+
+    "package":{
+      "package-management": "Management Paket",
+      "package-name": "Nama Paket",
+      "name": "Nama",
+      "description": "Deskripsi",
+      "price": "Harga",
+      "duration": "Durasi",
+      "unit": "Satuan",
+      "is-vvip": "VVIP"
+    }, 
+
+    "table":{
+      "search": "Cari",
+      "searchh": "Pencarian..",
+      "show-label": "Tampil",
+      "entri-label": "Entri"
+    },
+
+    "form": {
+      "error": {
+        "text" : "Nilai input ini diperlukan.",
+        "match" : "Nilai input tidak sama.",
+        "invalid-password":"Password Salah"
+      }
+      
+    },
+    "button": {
+      "view": "Tampilkan",
+      "action": "Aksi",
+      "detail": "Detail",
+      "profile": "Profil",
+      "logout": "Keluar",
+      "change-password": "Ganti Password",
+      "bulk-action": "Aksi Massal",
+      "row-data": "Baris Data",
+      "entries": "Entri",
+      "show": "Tampil",
+      "search-data": "Mencari",
+      "leave-group":"Ya, Keluar grup",
+      "leave-group-you":"Anda akan meninggalkan grup: ",
+      "join-group":"Ya, Bergabung Grup",
+      "join-group-you":"Anda akan bergabung dengan grup: ",
+      "all-search-number": "Cari Dari Nomer Telepone",
+      "add": {
+          "text": "Tambah"
+      },
+      "edit": {
+          "text": "Ubah"
+      },
+      "save": {
+          "text": "Simpan"
+      },
+      "hapus": {
+          "text": "Hapus"
+      },
+      "delete": {
+          "text": "Ya, Hapus!",
+          "modal": {
+              "confirmText": ["Apa anda yakin?", "Anda tidak akan dapat mengembalikan ini!"]
+          }
+      },
+      "update": {
+          "text": "Ubah"
+      },
+      "cancel": {
+          "text": "Batal"
+      },
+      "search": {
+          "label": "Cari",
+          "loading": "Mencari ..."
+      }
+  },
+  "all":{
+      "error-500": "Kesalahan Server Internal",
+      "error-404": "Server tidak ditemukan",
+      "update": "Perbarui",
+      "updated": "Di perbarui",
+      "show": "Tampil",
+      "search": "Cari",
+      "searchh": "Pencarian..",
+      "entries": "Entri",
+      "dnf": "Data Tidak Ditemukan",
+      "view-detail": "Lihat detail",
+      "created-at":"Di Buat",
+      "updated-at":"Di Update",
+      "agent": "Agen",
+      "customer": "Pelanggan"
+  },
+  "alert":{
+    "delete": "Data Berhasil Dihapus"
+  }
+
+  }

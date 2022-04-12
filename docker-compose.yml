@@ -1,0 +1,16 @@
+version: "3.7"
+
+services:
+  secure:
+    container_name: secureme-dashboard
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ".:/app"
+      - "/app/node_modules"
+    ports:
+      - "3001:3001"
+    command: yarn serve --port 3001
+    environment:
+      - CHOKIDAR_USEPOLLING=true
